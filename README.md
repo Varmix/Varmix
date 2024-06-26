@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varmix
 - 👀 I’m interested in development
-- 🌱 I’m currently learning different languages at school.
+- 🎓 I am a graduate with a Bachelor's degree in software engineering
 - 💞️ I’m looking to collaborate on some projetcs.
 - 📫 How to reach me : varmix_ on Discord
 
